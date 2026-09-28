@@ -1,0 +1,22 @@
+# genex local metadata + secrets — never publish
+.genex/
+.env
+.env.*
+!.env.example
+node_modules/
+
+# Unity generated folders
+UnityProject/[Ll]ibrary/
+UnityProject/[Tt]emp/
+UnityProject/[Oo]bj/
+UnityProject/[Ll]ogs/
+UnityProject/[Uu]ser[Ss]ettings/
+UnityProject/*.csproj
+UnityProject/*.sln
+UnityProject/*.slnx
+# builds, test output, logs
+Build/
+*.log
+# raw downloads (re-downloadable; the used parts are in UnityProject/Assets)
+sources/
+vehicles-src/

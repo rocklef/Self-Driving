@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 50b16a48ee983e74ea853493f69c83bd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\scene.bin
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\scene.bin
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\ambulance_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\ambulance_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\ambulance_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\ambulance_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\ambulance_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\ambulance_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\decals_tex_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\decals_tex_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\optics_tex_baseColor.jpeg
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\optics_tex_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\citybus_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\CityBus_decals_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\CityBus_decals_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_glass_0_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_glass_0_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_decals_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\firetruck_decals_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_tex_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_tex_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_tex_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_tex_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_tex_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_tex_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\garbagetruck_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_sedan_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_sedan_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_sedan_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_sedan_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_sedan_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_sedan_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_glass_0_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_glass_0_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_decal_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\police_decal_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\cervicetruck_tex_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\cervicetruck_tex_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\cervicetruck_tex_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\cervicetruck_tex_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\cervicetruck_tex_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\cervicetruck_tex_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\glass_tex_0_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\glass_tex_0_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\decals_tex_0_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\decals_tex_0_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_tex_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_tex_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_tex_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_tex_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_tex_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_tex_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\schoolbus_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\decals_tex_1_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\decals_tex_1_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_decal_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\taxi_decal_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_normal.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_normal.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_glass_0_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\towtruck_glass_0_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_metallicRoughness.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_glass_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_glass_baseColor.png
+  - type: 1
+    originalUri: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_decal_baseColor.png
+    assetPath: Assets\Vehicles\generic_civil_service_vehicles_pack\textures\postvan_decal_baseColor.png
+  reportItems: []
